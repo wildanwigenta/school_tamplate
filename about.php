@@ -55,6 +55,14 @@ Author URL: http://w3layouts.com
           <li class="nav-item @@contact__active">
             <a class="nav-link" href="contact.php">Contact</a>
           </li>
+          <li class="nav-item @@blog__active">
+            <a class="nav-link" href="blog.php">Blog</a>
+          </li>
+          <li class="nav-item @@teacher__active">
+            <a class="nav-link" href="teacher.php">Teachers</a>
+          </li>
+          <li class="nav-item @@faq__active">
+            <a class="nav-link" href="faq.php">FAQ</a>
         </ul>
 
         <!--/search-right-->
